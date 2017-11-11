@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620006498216",
+    "firebase_url": "https://feddappproject.firebaseio.com",
+    "project_id": "feddappproject",
+    "storage_bucket": "feddappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620006498216:android:0cde624d6d66e2a5",
+        "android_client_info": {
+          "package_name": "appdev.ncsu.feddapp_androidv6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620006498216-5doatluo4bs6g9v5b8ibudmt6gatud44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appdev.ncsu.feddapp_androidv6",
+            "certificate_hash": "f4b673f8a327633bf8356e4bcdc0e48b8ef2d682"
+          }
+        },
+        {
+          "client_id": "620006498216-c7u7j6ctl6ah1p93bbke0kcs8obn9lr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQcwEYTaz40RC3O137sriUFtHW507FcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620006498216-c7u7j6ctl6ah1p93bbke0kcs8obn9lr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
