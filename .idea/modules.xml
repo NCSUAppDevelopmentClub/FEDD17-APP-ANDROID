@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FeddApp-Androidv6.iml" filepath="$PROJECT_DIR$/FeddApp-Androidv6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FEDD17-APP-ANDROID.iml" filepath="$PROJECT_DIR$/FEDD17-APP-ANDROID.iml" />
+      <module fileurl="file://C:\Android_Developer\FEDD17-APP-ANDROID\FeddApp-Androidv6.iml" filepath="C:\Android_Developer\FEDD17-APP-ANDROID\FeddApp-Androidv6.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Android_Developer\FEDD17-APP-ANDROID\app\app.iml" filepath="C:\Android_Developer\FEDD17-APP-ANDROID\app\app.iml" />
     </modules>
   </component>
 </project>
